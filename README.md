@@ -1,19 +1,19 @@
 # payumoney-shakey
 
 install: 
-` npm install -g payumoney-shakey ` 
+	` npm install -g payumoney-shakey ` 
 
 Do: 
-`var payumoney_shakey = require('payumoney-shakey'); `
+		`var payumoney_shakey = require('payumoney-shakey'); `
 
 and use it :
 
-  `payumoney_shakey.make().base(key, txnid, amount, productinfo, firstname, email, salt);`
+  `payumoney_shakey.make().basic(key, txnid, amount, productinfo, firstname, email, salt);`
   
  and take a look at the hash:
  
  ```
- var hash = payumoney_shakey.make().base(key, txnid, amount, productinfo, firstname, email, salt);
+ var hash = payumoney_shakey.make().basic(key, txnid, amount, productinfo, firstname, email, salt);
     console.log(hash);
 ```
  hash should contain a string value something like below:
