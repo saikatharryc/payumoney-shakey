@@ -1,0 +1,15 @@
+{
+  "name": "payumoney-shakey",
+  "version": "1.0.0",
+  "description": "Generate hash for payumoney.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "payumoney",
+    "nodejs"
+  ],
+  "author": "Saikat Chakrabortty <saikatchakrabortty2@gmail.com> (https://saikat.cf)",
+  "license": "ISC"
+}
