@@ -18,3 +18,6 @@ and use it :
 ```
  hash should contain a string value something like below:
  `"5c4cf557ab390aa923cb81fee82701478caf0807fb63e9b789d54171e32124a537d906f4874e646f0bb780cbfae799a6bc003c177a29e7a91da01dff681acdf9"`
+ 
+ will add more function Soon. 
+ we are working on it.
