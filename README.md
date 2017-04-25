@@ -2,9 +2,10 @@
 
 [![NPM](https://nodei.co/npm/payumoney-shakey.png?downloads=true)](https://nodei.co/npm/payumoney-shakey/)
 
- [![NPM](https://nodei.co/npm-dl/payumoney-shakey.png?months=3&height=3)](https://nodei.co/npm/payumoney-shakey/)
+[![NPM](https://nodei.co/npm-dl/payumoney-shakey.png?months=3&height=3)](https://nodei.co/npm/payumoney-shakey/)
 
- 
+[![Build Status](https://travis-ci.org/saikatharryc/payumoney-shakey.svg?branch=master)](https://travis-ci.org/saikatharryc/payumoney-shakey)
+
 
 install: 
 	` npm install -g payumoney-shakey ` 
