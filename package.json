@@ -6,10 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saikatharryc/payumoney-shakey"
+  },
   "keywords": [
     "payumoney",
-    "nodejs"
+    "nodejs",
+    "sha-key",
+    "payu sha key generator"
   ],
-  "author": "Saikat Chakrabortty <saikatchakrabortty2@gmail.com> (https://saikat.cf)",
+  "author": "Saikat Chakrabortty <saikatchakrabortty2@gmail.com>",
   "license": "ISC"
 }
