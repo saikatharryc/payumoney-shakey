@@ -4,7 +4,7 @@
 
 [![NPM](https://nodei.co/npm-dl/payumoney-shakey.png?months=3&height=3)](https://nodei.co/npm/payumoney-shakey/)
 
-[![Build Status](https://travis-ci.org/saikatharryc/payumoney-shakey.svg?branch=master)](https://travis-ci.org/saikatharryc/payumoney-shakey)
+[![Build Status](https://travis-ci.org/saikatharryc/payumoney-shakey.svg?branch=master)](https://travis-ci.org/saikatharryc/payumoney-shakey) [![Greenkeeper badge](https://badges.greenkeeper.io/saikatharryc/payumoney-shakey.svg)](https://greenkeeper.io/)
 
 
 install: 
